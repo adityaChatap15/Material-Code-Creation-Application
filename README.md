@@ -19,7 +19,7 @@ The **Material Code Creation Application** is designed to streamline and automat
 ## **Technology Stack**
 - **Backend:** Python, Django, Django REST Framework
 - **Database:** PostgreSQL
-- **Frontend (if applicable):** React.js, JavaScript, HTML, CSS
+- **Frontend (if applicable):** Angular, JavaScript, HTML, CSS
 - **Security:** Role-based authentication, VAPT compliance
 - **Tools & Libraries:** Postman (API testing), Git for version control, Docker (optional for containerization)
 
